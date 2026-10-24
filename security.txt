@@ -1,0 +1,6 @@
+
+# lukacharnical.github.io Vulnerability Disclosure
+Contact: https://srs.s4e.io/lukacharnical.github.io/report
+Acknowledgments: https://srs.s4e.io/lukacharnical.github.io
+Preferred-Languages: en
+#s4e-verify-token: e725038bc61cf7612bf4277b1011c163
